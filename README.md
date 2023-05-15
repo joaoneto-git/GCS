@@ -1,2 +1,2 @@
 # GCS
-Repositório destinado a praticas e estudos de GCS
+Repositório destinado realização de atividades de GCS
